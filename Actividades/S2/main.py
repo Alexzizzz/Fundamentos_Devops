@@ -34,3 +34,4 @@ print(df_ventas.head())
 
 print("\n--- Estadísticas Finales por Vendedor ---")
 print(stats_vendedores)
+#1
